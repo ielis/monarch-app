@@ -185,7 +185,7 @@ institutions:
         bio:  Leigh Carmody, Ph.D., obtained her doctorate of philosophy in Molecular Physiology & Biophysics from Vanderbilt University in Spring 2007 where she studied targeting of signaling molecules to F-actin cytoskeleton/dendritic spines. Dr. Carmody continued her studies as a postdoctoral fellow at Massachusetts Institutes of Technology where she investigated the role of Rac1 in dendritic spine motility. Late 2008, she joined the Broad Institute of MIT & Harvard as a Scientist where she aided in early-stage drug discovery efforts to identify chemical leads directed at cancer targets and neglected parasitic infections.  Dr. Carmody joined Jackson Laboratory in 2015 as a Project Manager, and is currently a Scientific Curator annotating phenotyping and genomics data for the human phenotype ontology (HPO) database.
       - name: Daniel Danis
         title: Bioinformatician
-        picture: /image/team/daniel_danis.jpg
+        picture: /image/team/DanielDanis.jpg
         alumni: false
         bio: Daniel has a M.Sc. in Pharmacy from the Comenius University, Bratislava, Slovakia. He is currently working on his Ph.D. which mainly focuses on elucidation of molecular basis & pathomechanisms of rare hereditary diseases in human patients using whole exome sequencing. The scientific hospitation in Robinson lab is aimed to development of algorithms for better classification of variants that cause pre-mRNA missplicing and result in monogenic hereditary diseases. In addition, his work involves development of tools for biocuration of published disease-causing variants data.
   - id: charite
